@@ -1,6 +1,6 @@
 <p align="center">
   <a href="">
-    <img src="./assets/logo.jpg" width="150" alt="ally" style="margin: 0 15px;" />
+    <img src="../assets/logo.jpg" width="150" alt="ally" style="margin: 0 15px;" />
   </a>
 </p>
 <h1 align="center">Clocktower Systems</h1>
@@ -15,18 +15,18 @@
 
 
 
-<img src="./assets/software-1.png" height='550' width='650' >
+<img src="../assets/software-1.png" height='550' width='650' >
 
 
 
-<img src="./assets/software-2.png" height='550' width='650'>
+<img src="../assets/software-2.png" height='550' width='650'>
 
 
 
 **Multi Operation modes**
 
 
-<img src="./assets/software-3.png" height='550' width='650'>
+<img src="../assets/software-3.png" height='550' width='650'>
 
 
 
