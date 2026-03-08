@@ -45,6 +45,13 @@ What are the developments going on currently ?
 March 2,2026 - March 8, 2026
 - Scaling websockets  using Azure Container Apps
 
+### IMPORTANT
+
+Upadate as of **March 8,2025**
+
+- We have decided to shift the UI and core engine logic in **Electron Application**
+- All the migrations will be handled accordingly
+
 
 
 With the above features Real-time  decison making engine is in progress.
