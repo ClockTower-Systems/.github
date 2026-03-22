@@ -41,16 +41,11 @@ What are the developments going on currently ?
 - Latency spike graph and packet loss bursts
 - Tunneling
 
+Tentative upcoming release ( Mid April, 2026)
 
-March 2,2026 - March 8, 2026
-- Scaling websockets  using Azure Container Apps
-
-### IMPORTANT
-
-Upadate as of **March 8,2025**
-
-- We have decided to shift the UI and core engine logic in **Electron Application**
-- All the migrations will be handled accordingly
+- Making the report engine end-to-end
+- Lock on critical features
+- Multiple agents inclusion for distributive purpose
 
 
 
