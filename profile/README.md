@@ -41,11 +41,12 @@ What are the developments going on currently ?
 - Latency spike graph and packet loss bursts
 - Tunneling
 
-Tentative upcoming release ( Mid April, 2026)
 
-- Making the report engine end-to-end
-- Lock on critical features
-- Multiple agents inclusion for distributive purpose
+UPDATES Till June 22,2026
+
+- Clocktower Systems Threat Intel COMMAND LINE INTERFACE completed
+- Focusing more on integrating it with local ollama models for building local ai-agents
+- Developing core graph algorithm to find corelation between two different entities
 
 
 
